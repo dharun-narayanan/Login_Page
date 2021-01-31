@@ -9,6 +9,10 @@ This login page design has 3 screens, first one is a welcome screen when the use
 - [gradient_text](https://pub.dev/packages/gradient_text)
 - [google_fonts](https://pub.dev/packages/google_fonts)
 
+### UI
+
+![App UI](/UI.png)
+
 ## Created By
  [DHARUN NARAYANAN L K](https://dharun-narayanan.github.io/me/) <br/>
 ([Twitter](https://twitter.com/dharun_official)) ([LinkedIn](https://www.linkedin.com/in/dharun-narayanan-l-k-407459197/))
